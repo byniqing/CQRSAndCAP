@@ -1,0 +1,8 @@
+F:\project\CQRSAndCAP\Common.Model\bin\Debug\netcoreapp3.0\Common.Model.deps.json
+F:\project\CQRSAndCAP\Common.Model\bin\Debug\netcoreapp3.0\Common.Model.dll
+F:\project\CQRSAndCAP\Common.Model\bin\Debug\netcoreapp3.0\Common.Model.pdb
+F:\project\CQRSAndCAP\Common.Model\obj\Debug\netcoreapp3.0\Common.Model.csprojAssemblyReference.cache
+F:\project\CQRSAndCAP\Common.Model\obj\Debug\netcoreapp3.0\Common.Model.AssemblyInfoInputs.cache
+F:\project\CQRSAndCAP\Common.Model\obj\Debug\netcoreapp3.0\Common.Model.AssemblyInfo.cs
+F:\project\CQRSAndCAP\Common.Model\obj\Debug\netcoreapp3.0\Common.Model.dll
+F:\project\CQRSAndCAP\Common.Model\obj\Debug\netcoreapp3.0\Common.Model.pdb

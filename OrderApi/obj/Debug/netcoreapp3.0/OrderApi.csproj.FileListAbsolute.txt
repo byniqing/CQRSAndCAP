@@ -1,0 +1,17 @@
+F:\project\CQRSAndCAP\OrderApi\bin\Debug\netcoreapp3.0\appsettings.Development.json
+F:\project\CQRSAndCAP\OrderApi\bin\Debug\netcoreapp3.0\appsettings.json
+F:\project\CQRSAndCAP\OrderApi\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+F:\project\CQRSAndCAP\OrderApi\bin\Debug\netcoreapp3.0\OrderApi.exe
+F:\project\CQRSAndCAP\OrderApi\bin\Debug\netcoreapp3.0\OrderApi.deps.json
+F:\project\CQRSAndCAP\OrderApi\bin\Debug\netcoreapp3.0\OrderApi.runtimeconfig.json
+F:\project\CQRSAndCAP\OrderApi\bin\Debug\netcoreapp3.0\OrderApi.runtimeconfig.dev.json
+F:\project\CQRSAndCAP\OrderApi\bin\Debug\netcoreapp3.0\OrderApi.dll
+F:\project\CQRSAndCAP\OrderApi\bin\Debug\netcoreapp3.0\OrderApi.pdb
+F:\project\CQRSAndCAP\OrderApi\obj\Debug\netcoreapp3.0\staticwebassets\OrderApi.StaticWebAssets.Manifest.cache
+F:\project\CQRSAndCAP\OrderApi\obj\Debug\netcoreapp3.0\staticwebassets\OrderApi.StaticWebAssets.xml
+F:\project\CQRSAndCAP\OrderApi\obj\Debug\netcoreapp3.0\OrderApi.MvcApplicationPartsAssemblyInfo.cache
+F:\project\CQRSAndCAP\OrderApi\obj\Debug\netcoreapp3.0\OrderApi.AssemblyInfoInputs.cache
+F:\project\CQRSAndCAP\OrderApi\obj\Debug\netcoreapp3.0\OrderApi.AssemblyInfo.cs
+F:\project\CQRSAndCAP\OrderApi\obj\Debug\netcoreapp3.0\OrderApi.RazorTargetAssemblyInfo.cache
+F:\project\CQRSAndCAP\OrderApi\obj\Debug\netcoreapp3.0\OrderApi.dll
+F:\project\CQRSAndCAP\OrderApi\obj\Debug\netcoreapp3.0\OrderApi.pdb

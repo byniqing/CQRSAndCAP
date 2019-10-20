@@ -1,0 +1,11 @@
+F:\project\CQRSAndCAP\UserApplication\bin\Debug\netcoreapp3.0\UserApplication.deps.json
+F:\project\CQRSAndCAP\UserApplication\bin\Debug\netcoreapp3.0\UserApplication.dll
+F:\project\CQRSAndCAP\UserApplication\bin\Debug\netcoreapp3.0\UserApplication.pdb
+F:\project\CQRSAndCAP\UserApplication\bin\Debug\netcoreapp3.0\UserRepository.dll
+F:\project\CQRSAndCAP\UserApplication\bin\Debug\netcoreapp3.0\UserRepository.pdb
+F:\project\CQRSAndCAP\UserApplication\obj\Debug\netcoreapp3.0\UserApplication.csprojAssemblyReference.cache
+F:\project\CQRSAndCAP\UserApplication\obj\Debug\netcoreapp3.0\UserApplication.AssemblyInfoInputs.cache
+F:\project\CQRSAndCAP\UserApplication\obj\Debug\netcoreapp3.0\UserApplication.AssemblyInfo.cs
+F:\project\CQRSAndCAP\UserApplication\obj\Debug\netcoreapp3.0\UserApplication.csproj.CopyComplete
+F:\project\CQRSAndCAP\UserApplication\obj\Debug\netcoreapp3.0\UserApplication.dll
+F:\project\CQRSAndCAP\UserApplication\obj\Debug\netcoreapp3.0\UserApplication.pdb

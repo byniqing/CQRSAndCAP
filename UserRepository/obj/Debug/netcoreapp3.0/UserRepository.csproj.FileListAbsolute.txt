@@ -1,0 +1,8 @@
+F:\project\CQRSAndCAP\UserRepository\bin\Debug\netcoreapp3.0\UserRepository.deps.json
+F:\project\CQRSAndCAP\UserRepository\bin\Debug\netcoreapp3.0\UserRepository.dll
+F:\project\CQRSAndCAP\UserRepository\bin\Debug\netcoreapp3.0\UserRepository.pdb
+F:\project\CQRSAndCAP\UserRepository\obj\Debug\netcoreapp3.0\UserRepository.AssemblyInfoInputs.cache
+F:\project\CQRSAndCAP\UserRepository\obj\Debug\netcoreapp3.0\UserRepository.AssemblyInfo.cs
+F:\project\CQRSAndCAP\UserRepository\obj\Debug\netcoreapp3.0\UserRepository.dll
+F:\project\CQRSAndCAP\UserRepository\obj\Debug\netcoreapp3.0\UserRepository.pdb
+F:\project\CQRSAndCAP\UserRepository\obj\Debug\netcoreapp3.0\UserRepository.csprojAssemblyReference.cache
